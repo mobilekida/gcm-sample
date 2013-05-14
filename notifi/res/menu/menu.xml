@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/reload" android:title="リロード" android:icon="@android:drawable/ic_menu_rotate"/>
+    <item android:id="@+id/back" android:title="戻る" android:icon="@android:drawable/ic_menu_revert"/>
+    <item android:id="@+id/forward" android:title="ブラウザで開く" android:icon="@android:drawable/ic_menu_directions"/>
+    <item android:id="@+id/options_clear" android:title="@string/options_clear"></item>
+    <item android:id="@+id/options_exit" android:title="@string/options_exit"></item>
+</menu>
+
